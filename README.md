@@ -8,7 +8,7 @@ Use the scripts in this repo as a template.
 
 You need to edit:
 - each day (e.g. mon.ahk) should have the FILENAME for each class you join that day
-- each class file needs the proper LINK and TIME
+- each class file needs the proper LINK and TIME (time is in 24 hour format, e.g. if its 1:15 PM, TimeToMeet = 1315)
 
 
 Caveats:

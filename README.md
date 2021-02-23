@@ -3,7 +3,7 @@
 Install This:
 https://www.autohotkey.com/
 
-Use these scripts as a template:
+Use the scripts in this repo as a template.
 
 
 You need to edit:
